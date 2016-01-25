@@ -4,3 +4,4 @@ proguard_cache/
 .svn/
 lint.xml
 .settings/
+.project
