@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="5dp" >
+
+    <TextView
+        android:id="@+id/questionView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="this is a ___ exercise"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/question_color"
+        android:textIsSelectable="true"
+        android:textStyle="italic"
+        android:typeface="serif"
+        tools:ignore="UnusedAttribute,HardcodedText" />
+
+    <LinearLayout
+        android:id="@+id/optionsView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/questionView"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/resultView"
+        android:layout_below="@+id/optionsView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="the result!"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/result_color"
+        android:textIsSelectable="true"
+        android:textStyle="italic"
+        android:typeface="serif"
+        tools:ignore="HardcodedText,UnusedAttribute" />
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/rounded_next_back"
+        android:onClick="nextExercise"
+        android:padding="2dp"
+        android:text="@string/skip"
+        android:textColor="@color/skip_text" />
+
+</RelativeLayout>

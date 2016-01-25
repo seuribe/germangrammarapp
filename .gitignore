@@ -1,0 +1,6 @@
+bin/
+proguard_cache/
+*.apk
+.svn/
+lint.xml
+.settings/

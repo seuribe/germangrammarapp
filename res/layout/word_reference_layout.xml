@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:gravity="top"
+        android:padding="5dp"
+        android:paddingBottom="3dip"
+        android:paddingTop="2dip"
+        android:text="werben"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="28sp"
+        android:textStyle="italic"
+        android:typeface="serif"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/referenceButton"
+        style="@style/RoundedButton.QuickRef"
+        android:layout_gravity="center_vertical"
+        android:text="@string/reference_button"
+        android:textColor="@color/reference_text" />
+
+    <Button
+        android:id="@+id/externalReferenceButton"
+        style="@style/RoundedButton.Wiktionary"
+        android:layout_gravity="center_vertical"
+        android:text="@string/external_ref_button"
+        android:textColor="@color/hint_text" />
+
+</LinearLayout>

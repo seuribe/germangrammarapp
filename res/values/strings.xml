@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">German Grammar Practice</string>
+    <string name="title_activity_word_list">Word List</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="grammar_tab_title">Grammar</string>
+    <string name="exercises_tab_title">Exercises</string>
+	<string name="statistics_tab_title">Statistics</string>
+	<string name="disclaimer_title">Disclaimer</string>
+	<string name="about_title">About</string>
+	
+    <string name="menu_disclaimer">Disclaimer</string>
+    <string name="menu_about">About</string>
+    <string name="menu_feedback">Send feedback</string>
+    
+    <string name="skip">skip</string>
+    <string name="next">next</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_button">hint</string>
+    <string name="cheat_button">cheat</string>
+    <string name="feedback_button">Report Error</string>
+    <string name="feedback_report">Report</string>
+    <string name="feedback_cancel">Cancel</string>
+    <string name="external_ref_button">Wiktionary</string>
+    <string name="reference_button">Quick ref</string>
+	<string name="close_button">Close</string>
+    <string name="fb_dialog_text">If you think something is wrong with this exercise, click \'Report\'.</string>
+    
+    <string name="post_feedback_ok">Feedback reported, thanks!</string>
+	<string name="post_feedback_error">Feedback reporting failed</string>
+
+	<string name="answer_right">Correct!</string>
+	<string name="answer_not_right">Correct is \'%s\'</string>
+	<string name="exercise_help_title">Exercise help</string>
+
+	<string name="html_transitive">"&lt;b>transitive&lt;/b> "</string>
+	<string name="html_dative">"&lt;b>dat. direct object&lt;/b> "</string>
+    
+    <string name="ex_noun_gender">Noun Genders</string>
+    <string name="ex_noun_plural">Noun Plurals</string>
+    <string name="ex_adjective_declension">Adjective Declension</string>
+    <string name="ex_verb_conjugation_present">Verb Conjugation: Präsens</string>
+    <string name="ex_verb_conjugation_pastperfect">Verb Conjugation: Perfekt</string>
+    <string name="ex_verb_conjugation_seinhaben">Verb Conjugation (sein + haben)</string>
+    <string name="ex_preposition_in">Preposition use (in)</string>
+    <string name="ex_possesive_determiner">Possessive Determiners</string>
+    <string name="ex_indefinite_article">Indefinite Article</string>
+    <string name="ex_auxiliary_verbs">Auxiliary Verbs Conjugation</string>
+    
+    <string name="expl_noun_gender">Select the correct article for the noun, according to the gender.</string>
+    <string name="expl_noun_plural">Select the appropriate plural form for the noun.</string>
+    <string name="expl_adjective_declension">Adjectives decline according to case and gender. Enter the correct form of the adjective according to the noun and case shown.</string>
+    <string name="expl_verb_conjugation_present">Conjugate the verb in the present tense.</string>
+    <string name="expl_verb_conjugation_pastperfect">Conjugate the verb in the Past Perfect tense.</string>
+    <string name="expl_verb_conjugation_seinhaben">Conjugate the verbs <i>sein</i> and <i>haben</i></string>
+    <string name="expl_preposition_in">Choose the appropriate form of the <i>in</i> preposition and/or its contraction with the article.</string>
+    <string name="expl_possesive_determiner">Select the correct possessive determiner according to the person and object gender.</string>
+    <string name="expl_indefinite_article">Choose the appropriate form of the indefinite article (or its negation)</string>
+    <string name="expl_auxiliary_verbs">Select the correct auxiliary verb and past participle form of the main verb in the sentence.</string>
+    
+    <string name="nouns">Nouns</string>
+    <string name="verbs">Verbs</string>
+    <string name="articles">Articles</string>
+
+    <string name="news_notification_title">News from the Developer</string>
+    <string name="news_notification_text">Hi again, users!\n\n
+        I will shortly update the app with some big changes centered around user-generated exercises. This means that you will be able to create questions and exercises for others to use!\n
+		If this works well, I\'ll probably start removing the randomly generated ones, as they should be replaced by your own.\n
+		But.... I need you! I need people to test this new functionality. So I\'ve created a beta version, only available to those who sign up for it.\n
+		To sign please press the "sign" button and follow the link to be part of the beta test, and try out stuff before everyone else!
+        </string>
+    
+</resources>

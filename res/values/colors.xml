@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="hint_color">#A0A0FF</color>
+    <color name="result_color">#808080</color>
+    <color name="question_color">#202000</color>
+
+    <color name="hint_back">#b0b000</color>
+    <color name="hint_text">#FFFFFF</color>
+    <color name="cheat_back">#ffb000</color>
+    <color name="cheat_text">#FFFFFF</color>
+    <color name="skip_back">#f34444</color>
+    <color name="skip_text">#FFFFFF</color>
+    
+    <color name="reference_back">#ffb000</color>
+    <color name="reference_text">#FFFFFF</color>
+    
+    <color name="feedback_send_back">#20918b</color>
+    <color name="feedback_send_text">#FFFFFF</color>
+
+    <color name="feedback_cancel_back">#ffb000</color>
+    <color name="feedback_cancel_text">#FFFFFF</color>
+    
+    <color name="option_back">#20918b</color>
+    <color name="option_text">#FFFFFF</color>
+    
+    <color name="right_answer">#60F060</color>
+    <color name="wrong_answer">#F06060</color>
+    <color name="other_answer">#F0F0F0</color>
+</resources>

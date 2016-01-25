@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/exercise_help_title"/>
+    <item
+        android:id="@+id/action_cheat"
+        android:title="@string/cheat_button"/>
+    <item
+        android:id="@+id/action_error"
+        android:title="@string/feedback_button"/>
+    
+</menu>

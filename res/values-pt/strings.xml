@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">German Grammar Practice</string>
+    <string name="title_activity_word_list">Lista de Palavras</string>
+    <string name="title_activity_help">Ajuda</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="grammar_tab_title">Gramática</string>
+    <string name="exercises_tab_title">Exercícios</string>
+	<string name="statistics_tab_title">Estatísticas</string>
+	<string name="disclaimer_title">Aviso Legal</string>
+	<string name="about_title">Acerca de</string>
+	
+    <string name="menu_disclaimer">Aviso Legal</string>
+    <string name="menu_about">Acerca de</string>
+
+    <string name="skip">Saltar</string>
+    <string name="next">Seguinte</string>
+    <string name="action_settings">Definições</string>
+    <string name="hint_button">pista</string>
+    <string name="cheat_button">batota</string>
+    <string name="feedback_button">Reportar Erro</string>
+    <string name="feedback_report">Reportar</string>
+    <string name="feedback_cancel">Cancelar</string>
+    <string name="external_ref_button">Wiktionary</string>
+    <string name="reference_button">Referência Rápida</string>
+	<string name="close_button">Fechar</string>
+    <string name="fb_dialog_text">Se pensa que algo está errado com este exercício, por fazer faça clique em \'Reportar\'</string>
+    
+    <string name="post_feedback_ok">Comentário reportado, muito obrigado!</string>
+	<string name="post_feedback_error">Erro ao reportar o seu comentário</string>
+
+	<string name="answer_right">Correcto!</string>
+	<string name="answer_not_right">Correcto: \'%s\'</string>
+	<string name="exercise_help_title">Ajuda</string>
+
+	<string name="html_transitive">"&lt;b>transitivo&lt;/b> "</string>
+	<string name="html_dative">"&lt;b>dat. complemento directo&lt;/b> "</string>
+    
+    <string name="ex_noun_gender">Género do Substantivo</string>
+    <string name="ex_noun_plural">Plurais do Substantivo</string>
+    <string name="ex_adjective_declension">Declinação do Adjectivo</string>
+    <string name="ex_verb_conjugation_present">Conjugação Verbal: Präsens</string>
+    <string name="ex_verb_conjugation_pastperfect">Conjugação Verbal: Perfekt</string>
+    <string name="ex_verb_conjugation_seinhaben">Conjugue os verbos \'sein\' e \'haben\'</string>
+    <string name="ex_preposition_in">Uso de Proposição: \'in\'</string>
+    <string name="ex_possesive_determiner">Determinantes Possessivos</string>
+    <string name="ex_indefinite_article">Artigo Indefinido</string>
+    <string name="ex_auxiliary_verbs">Conjugação de Verbos Auxiliares</string>
+    
+    <string name="expl_noun_gender">Seleccione o artigo correcto para o substantivo, de acordo com o seu género.</string>
+    <string name="expl_noun_plural">Seleccione a forma plural apropriada do substantivo.</string>
+    <string name="expl_adjective_declension">Os adjectivos declinam de acordo com o caso e género. Insira a forma correcta do adjectivo de acordo com o caso e substantivo mostrado.</string>
+    <string name="expl_verb_conjugation_present">Conjugue o verbo no presente.</string>
+    <string name="expl_verb_conjugation_pastperfect">Conjugue o verbo no Pretérito Perfeito.</string>
+    <string name="expl_verb_conjugation_seinhaben">Conjugue os verbos <i>sein</i> e <i>haben</i></string>
+    <string name="expl_preposition_in">Seleccione a forma apropriada da proposição <i>in</i> ou a sua contração com o artigo.</string>
+    <string name="expl_possesive_determiner">Seleccione o determinante possessivo correcto de acordo com a pessoa e género.</string>
+    <string name="expl_indefinite_article">Seleccione a forma apropriada do artigo indefinido (ou a sua negação).</string>
+    <string name="expl_auxiliary_verbs">Seleccione o verbo auxiliar correcto e a forma de Particípio Passado do verbo principal na frase.</string>
+    
+    <string name="nouns">Substantivos</string>
+    <string name="verbs">Verbos</string>
+    <string name="articles">Verbos</string>
+
+</resources>

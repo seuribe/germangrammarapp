@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">German Grammar Practice</string>
+    <string name="title_activity_word_list">Lista di Parole</string>
+    <string name="title_activity_help">Aiuto</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="grammar_tab_title">Grammatica</string>
+    <string name="exercises_tab_title">Esercizi</string>
+	<string name="statistics_tab_title">Statistiche</string>
+	<string name="disclaimer_title">Dichiariazione di non responsabilità</string>
+	<string name="about_title">Al riguardo di</string>
+	
+    <string name="menu_disclaimer">Dichiariazione di non responsabilità</string>
+    <string name="menu_about">Al riguardo di</string>
+
+    <string name="skip">Saltare</string>
+    <string name="next">Prossimo</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="hint_button">indizio</string>
+    <string name="cheat_button">imbrogliare</string>
+    <string name="feedback_button">Segnala Errore</string>
+    <string name="feedback_report">Segnala</string>
+    <string name="feedback_cancel">Cancellare</string>
+    <string name="external_ref_button">Wiktionary</string>
+    <string name="reference_button">Fonte di riferimento Rapida</string>
+	<string name="close_button">Chiudere</string>
+    <string name="fb_dialog_text">Se pensate che vi sia qualcosa di errato in questo esercizio, cliccate \'Segnala\'</string>
+    
+    <string name="post_feedback_ok">Commento Segnalato, grazie!</string>
+	<string name="post_feedback_error">Segnalazione del commento non riuscita</string>
+
+	<string name="answer_right">Corretto!</string>
+	<string name="answer_not_right">Corretto: \'%s\'</string>
+	<string name="exercise_help_title">Aiuto</string>
+
+	<string name="html_transitive">"&lt;b>transitivo&lt;/b> "</string>
+	<string name="html_dative">"&lt;b>dat. oggetto diretto&lt;/b> "</string>
+    
+    <string name="ex_noun_gender">Genere del Sostantivo</string>
+    <string name="ex_noun_plural">Sostantivo Plurale</string>
+    <string name="ex_adjective_declension">Declinazione dell\'aggettivo</string>
+    <string name="ex_verb_conjugation_present">Coniugazione del verbo: Präsens</string>
+    <string name="ex_verb_conjugation_pastperfect">Coniugazione del verbo: Perfekt</string>
+    <string name="ex_verb_conjugation_seinhaben">Coniugate i verbi \'sein\' e \'haben\'</string>
+    <string name="ex_preposition_in">Uso delle Preposizioni: \'in\'</string>
+    <string name="ex_possesive_determiner">Possessivo Determinante</string>
+    <string name="ex_indefinite_article">Articolo Indefinito</string>
+    <string name="ex_auxiliary_verbs">Coniugazione dei verbi Ausiliari</string>
+    
+    <string name="expl_noun_gender">Selezionate l\'articolo corretto per il sostantivo a seconda del genere.</string>
+    <string name="expl_noun_plural">Selezionate la forma plurale corretta del sostantivo</string>
+    <string name="expl_adjective_declension">Declina gli aggettivi a seconda del caso e del genere. Inserisci la forma corretta dell\'aggettivo a seconda del sostantivo e del caso mostrato.</string>
+    <string name="expl_verb_conjugation_present">Coniugate il verbo al tempo presente</string>
+    <string name="expl_verb_conjugation_pastperfect">Coniugate il verbo al tempo Trapassato</string>
+    <string name="expl_verb_conjugation_seinhaben">Coniugate i verbi <i>sein</i> e <i>haben</i></string>
+    <string name="expl_preposition_in">Scegliete la forma appropriata della <i>in</i> preposizione o della sua forma contratta con l\'articolo.</string>
+    <string name="expl_possesive_determiner">Selezionate il corretto Possessivo determinante a seconda della persona e del genere dell\'oggetto.</string>
+    <string name="expl_indefinite_article">Scegliete la forma appropriata dell\'articolo indefinito ( o la sua negazione)</string>
+    <string name="expl_auxiliary_verbs">Scegliete il verbo ausiliare corretto e la forma del participio passato del verbo principale nella frase.</string>
+    
+    <string name="nouns">Sostantivi</string>
+    <string name="verbs">Verbi</string>
+    <string name="articles">Articoli</string>
+
+</resources>
