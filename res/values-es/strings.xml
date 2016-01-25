@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">German Grammar Practice</string>
+    <string name="title_activity_word_list">Lista de palabras</string>
+    <string name="title_activity_help">Ayuda</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="grammar_tab_title">Gramática</string>
+    <string name="exercises_tab_title">Ejercicios</string>
+	<string name="statistics_tab_title">Estadísticas</string>
+	<string name="disclaimer_title">Aviso Legal</string>
+	<string name="about_title">Acerca de</string>
+	
+    <string name="menu_disclaimer">Aviso Legal</string>
+    <string name="menu_about">Acerca de</string>
+
+    <string name="skip">Saltear</string>
+    <string name="next">Siguiente</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="hint_button">Hint</string>
+    <string name="cheat_button">Trampa</string>
+    <string name="feedback_button">Reportar Error</string>
+    <string name="feedback_report">Reportar</string>
+    <string name="feedback_cancel">Cancelar</string>
+    <string name="external_ref_button">Wiktionary</string>
+    <string name="reference_button">Referencia</string>
+	<string name="close_button">Cerrar</string>
+    <string name="fb_dialog_text">Si crées que hay un error en este ejercicio, presiona \'Reportar\'</string>
+    
+    <string name="post_feedback_ok">Gracias por su reporte!</string>
+	<string name="post_feedback_error">Error al reportar</string>
+
+	<string name="answer_right">Correcto!</string>
+	<string name="answer_not_right">Correcto: \'%s\'</string>
+	<string name="exercise_help_title">Ayuda del ejercicio</string>
+
+	<string name="html_transitive">"&lt;b>transitivo&lt;/b> "</string>
+	<string name="html_dative">"&lt;b>dat. objecto directo&lt;/b> "</string>
+    
+    <string name="ex_noun_gender">Géneros</string>
+    <string name="ex_noun_plural">Plurales</string>
+    <string name="ex_adjective_declension">Declensión de Adjetivos</string>
+    <string name="ex_verb_conjugation_present">Conjugue el verbo: Präsens</string>
+    <string name="ex_verb_conjugation_pastperfect">Conjugue el verbo: Perfekt</string>
+    <string name="ex_verb_conjugation_seinhaben">Conjuge los verbos \'sein\' y \'haben\'</string>
+    <string name="ex_preposition_in">Uso de la preposición \'in\'</string>
+    <string name="ex_possesive_determiner">Determinante posesivo</string>
+    <string name="ex_indefinite_article">Artículo indefinido</string>
+    <string name="ex_auxiliary_verbs">Conjugación de verbo auxiliar</string>
+    
+    <string name="expl_noun_gender">Seleccione el artículo correcto para el sustantivo, de acuerdo a su género</string>
+    <string name="expl_noun_plural">Seleccione el plural del sustantivo</string>
+    <string name="expl_adjective_declension">Los adjetivos declinan de acuerdo al caso y género. Ingrese la forma correcta del adjetivo de acuerdo al sustantivo y caso indicado</string>
+    <string name="expl_verb_conjugation_present">Conjugue el verbo en presente</string>
+    <string name="expl_verb_conjugation_pastperfect">Conjugue el verbo en pasado perfecto</string>
+    <string name="expl_verb_conjugation_seinhaben">Conjuge los verbos <i>sein</i> y <i>haben</i></string>
+    <string name="expl_preposition_in">Seleccione la forma correcta de la preposición <i>in</i> o su contracción con el artículo</string>
+    <string name="expl_possesive_determiner">Seleccione el determinante posesivo de acuerdo a la persona y género</string>
+    <string name="expl_indefinite_article">Seleccione el artículo indefinido correcto (o su negación)</string>
+    <string name="expl_auxiliary_verbs">Seleccione el verbo auxiliar y la forma correcta del verbo principal en participio</string>
+    
+    <string name="nouns">Sustantivos</string>
+    <string name="verbs">Verbos</string>
+    <string name="articles">Artículos</string>
+
+</resources>

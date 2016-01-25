@@ -1,0 +1,43 @@
+{"type":"weak", "transitive":"AOE", "inf":"kaufen", "root":"kauf"}
+{"type":"weak", "inf":"lieben", "root":"lieb"}
+{"type":"weak", "inf":"lehren", "root":"lehr"}
+{"type":"weak", "transitive":"AHP", "inf":"hören", "root":"hör"}
+{"type":"weak", "transitive":"O", "inf":"benutzen", "root":"benutz"}
+{"type":"weak", "inf":"stellen", "root":"stell"}
+{"type":"weak", "transitive":"E", "inf":"verdauen", "root":"verdau"}
+{"type":"weak", "inf":"wachen", "root":"wach"}
+{"type":"weak", "inf":"wählen", "root":"wähl"}
+{"type":"weak", "inf":"zahlen", "root":"zahl"}
+{"type":"weak", "sein":"NULL", "inf":"wandern", "root":"wander"}
+{"type":"weak", "inf":"machen", "root":"mach"}
+{"type":"weak", "inf":"wecken", "root":"weck"}
+{"type":"weak", "transitive":"HPOA", "inf":"suchen", "root":"such"}
+{"type":"weak", "dative":"NULL", "inf":"ähneln", "root":"ähnel"}
+{"type":"weak", "dative":"NULL", "inf":"applaudieren", "root":"applaudier"}
+{"type":"weak", "dative":"NULL", "inf":"danken", "root":"dank", "po":[{"prep":"für", "case":"A", "nountags":"OAE"}]}
+{"type":"weak", "dative":"NULL", "inf":"dienen", "root":"dien"}
+{"type":"weak", "dative":"NULL", "inf":"folgen", "root":"folg"}
+{"type":"weak", "inf":"telefonieren", "root":"telefonier", "po":[{"prep":"nach", "case":"D", "nountags":"HP"}]}
+{"type":"weak", "inf":"lernen", "root":"lern", "po":[{"prep":"von", "case":"D", "nountags":"HP"}]}
+{"type":"strong", "inf":"singen", "root":"sing", "past":"sang", "pastp":"gesungen"}
+{"type":"strong", "inf":"bringen", "root":"bring", "past":"brach", "pastp":"gebracht"}
+{"type":"strong", "inf":"fragen", "root":"frag", "past":"frag", "pastp":"gefragt"}
+{"type":"strong", "transitive":"OAP", "inf":"finden", "root":"find", "past":"fand", "pastp":"gefunden"}
+{"type":"strong", "transitive":"O", "inf":"gewinnen", "root":"gewinn", "past":"gewann", "pastp":"gewonnen"}
+{"type":"strong", "transitive":"OA", "inf":"geben", "root":"geb", "root2":" gib", "past":"gab", "pastp":"gegeben"}
+{"type":"strong", "sein":"NULL", "inf":"gehen", "root":"geh", "past":"ging", "pastp":"gegangen"}
+{"type":"strong", "inf":"treffen", "root":"treff", "root2":"triff", "past":"traf", "pastp":"getroffen", "po":[{"prep":"mit", "case":"D", "nountags":"HP"}]}
+{"type":"strong", "inf":"schreien", "root":"schrei", "past":"schrie", "pastp":" geschrien", "po":[{"prep":"nach", "case":"D", "nountags":"HPA"}]}
+{"type":"strong", "inf":"riechen", "root":"riech", "past":"roch", "pastp":"gerochen", "po":[{"prep":"nach", "case":"D", "nountags":"AE"}]}
+{"type":"strong", "inf":"sprechen", "root":"sprech", "root2":"sprich", "past":"sprach", "pastp":"gesprochen", "po":[{"prep":"mit", "case":"D", "nountags":"HP"}]}
+{"type":"weak", "inf":"warten", "root":"wart", "po":[{"prep":"auf", "case":"A", "nountags":"HP"}]}
+{"type":"strong", "transitive":"OAE", "inf":"nehmen", "root":"nehm", "past":"nahm", "pastp":"genommen"}
+{"type":"strong", "transitive":"W", "inf":"schreiben", "root":"schreib", "past":"schrieb", "pastp":"geschrieben", "po":[{"prep":"an", "case":"A", "nountags":"HP"}]}
+{"type":"weak", "inf":"glauben", "root":"glaub", "po":[{"prep":"an", "case":"A", "nountags":"HP"}]}
+{"type":"weak", "inf":"sorgen", "root":"sorg", "po":[{"prep":"für", "case":"A", "nountags":"HP"}]}
+{"type":"strong", "transitive":"OEP", "inf":"verlieren", "root":"verlier", "past":"verlor", "pastp":"verloren"}
+{"type":"strong", "inf":"tun", "root":"tu", "past":"tat", "pastp":"getan"}
+{"type":"strong", "inf":"empfehlen", "root":"empfehl", "past":"empfahl", "pastp":"empfholen", "transitive":"PEO"}
+{"type":"weak", "inf":"berichten", "root":"bericht", "transitive":"HP", "po":[{"prep":"über", "case":"D", "nountags":"OAE"}, {"prep":"für", "case":"A", "nountags":"HP"}]}
+{"type":"strong", "inf":"schneiden", "root":"schneid", "past":"schnitt", "pastp":"geschnitten", "transitive":"OEAHP"}
+{"type":"weak", "inf":"verlangen", "root":"verlang", "transitive":"AOPE", "po":[{"prep":"von", "case":"D", "nountags":"HP"}]}

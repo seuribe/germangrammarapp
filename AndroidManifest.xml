@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ar.com.inmune"
+    android:versionCode="13"
+    android:versionName="1.1.6" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+<!--
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+-->
+   <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="ar.com.inmune.GermanPractice"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="ar.com.inmune.ExerciseActivity" >
+        </activity>
+
+        <activity
+            android:name="ar.com.inmune.WordListActivity"
+            android:label="@string/title_activity_word_list" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.HelpActivity"
+            android:label="@string/title_activity_help"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.BrowserActivity"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.GermanPractice$GrammarMenuActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.GermanPractice$ExercisesMenuActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.GermanPractice$StatsMenuActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ar.com.inmune.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ar.com.inmune.FeedbackActivity"
+            android:label="@string/title_activity_feedback">
+        </activity>
+    </application>
+
+</manifest>

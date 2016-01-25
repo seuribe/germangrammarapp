@@ -1,0 +1,211 @@
+{"g":"m", "sing":"Name", "pl":"Namen", "tags":"W"}
+{"g":"f", "sing":"Sprache", "pl":"Sprachen"}
+{"g":"m", "sing":"Herr", "pl":"Herren", "tags":"H"}
+{"g":"f", "sing":"Frau", "pl":"Frauen", "tags":"H"}
+{"g":"f", "sing":"Adresse", "pl":"Adressen"}
+{"g":"f", "sing":"Straße", "pl":"Straßen"}
+{"g":"m", "sing":"Platz", "pl":"Plätze", "tags":"L"}
+{"g":"f", "sing":"Stadt", "pl":"Städte", "tags":"L"}
+{"g":"f", "sing":"Seite", "pl":"Seiten", "tags":"O"}
+{"g":"n", "sing":"Bild", "pl":"Bilder", "tags":"O"}
+{"g":"f", "sing":"Firma", "pl":"Firmen"}
+{"g":"n", "sing":"Foto", "pl":"Fotos", "tags":"O"}
+{"g":"n", "sing":"Gespräch", "pl":"Gespräche"}
+{"g":"n", "sing":"Hotel", "pl":"Hotels", "tags":"L"}
+{"g":"f", "sing":"Information", "pl":"Informationen"}
+{"g":"f", "sing":"Kollegin", "pl":"Kolleginnen", "tags":"H"}
+{"g":"f", "sing":"Musik", "pl":"Musik"}
+{"g":"n", "sing":"Radio", "pl":"Radios", "tags":"O"}
+{"g":"n", "sing":"Hose", "pl":"Hosen", "tags":"O"}
+{"g":"n", "sing":"Spiel", "pl":"Spiele"}
+{"g":"n", "sing":"Wort", "pl":"Wörter"}
+{"g":"f", "sing":"Familie", "pl":"Familien", "tags":"H"}
+{"g":"m", "sing":"Freund", "pl":"Freunde", "tags":"H"}
+{"g":"f", "sing":"Freundin", "pl":"Freundinen", "tags":"H"}
+{"g":"m", "sing":"Mann", "pl":"Männer", "tags":"H"}
+{"g":"p", "sing":"Eltern", "tags":"H"}
+{"g":"f", "sing":"Frau", "pl":"Frauen", "tags":"H"}
+{"g":"m", "sing":"Vater", "pl":"Väter", "tags":"H"}
+{"g":"f", "sing":"Mutter", "pl":"Mütter", "tags":"H"}
+{"g":"m", "sing":"Sohn", "pl":"Söhne", "tags":"H"}
+{"g":"f", "sing":"Tochter", "pl":"Töchter", "tags":"H"}
+{"g":"p", "sing":"Geschwister", "tags":"H"}
+{"g":"m", "sing":"Bruder", "pl":"Brüder", "tags":"H"}
+{"g":"f", "sing":"Schwester", "pl":"Schwestern", "tags":"H"}
+{"g":"p", "sing":"Großeltern", "tags":"H"}
+{"g":"m", "sing":"Großvater", "pl":"Großväter", "tags":"H"}
+{"g":"m", "sing":"Opa", "pl":"Opas", "tags":"H"}
+{"g":"f", "sing":"Großmutter", "pl":"Großmütter", "tags":"H"}
+{"g":"f", "sing":"Oma", "pl":"Omas", "tags":"H"}
+{"g":"n", "sing":"Kind", "pl":"Kinder", "tags":"H"}
+{"g":"n", "sing":"Baby", "pl":"Babys", "tags":"H"}
+{"g":"p", "sing":"Leute", "tags":"H"}
+{"g":"f", "sing":"Nummer", "pl":"Nummern", "tags":"W"}
+{"g":"m", "sing":"Partner", "pl":"Partner", "tags":"H"}
+{"g":"f", "sing":"Partnerin", "pl":"Partnerinnen", "tags":"H"}
+{"g":"f", "sing":"Party", "pl":"Partys"}
+{"g":"m", "sing":"Tanz", "pl":"Tänze"}
+{"g":"m", "sing":"Satz", "pl":"Sätze", "tags":"O"}
+{"g":"m", "sing":"Text", "pl":"Texte", "tags":"W"}
+{"g":"f", "sing":"Zahl", "pl":"Zahlen", "tags":"W"}
+{"g":"m", "sing":"Apfel", "pl":"Äpfel", "tags":"OE"}
+{"g":"f", "sing":"Banane", "pl":"Bananen", "tags":"OE"}
+{"g":"f", "sing":"Erdbeere", "pl":"Erdbeeren", "tags":"OE"}
+{"g":"f", "sing":"Birne", "pl":"Birnen", "tags":"OE"}
+{"g":"n", "sing":"Brot", "pl":"Brote", "tags":"OE"}
+{"g":"n", "sing":"Brötchen", "pl":"Brötchen", "tags":"OE"}
+{"g":"n", "sing":"Ei", "pl":"Eier", "tags":"OE"}
+{"g":"m", "sing":"Fisch", "pl":"Fische", "tags":"OE"}
+{"g":"n", "sing":"Getränk", "pl":"Getränke", "tags":"O"}
+{"g":"f", "sing":"Kartoffel", "pl":"Kartoffeln", "tags":"OE"}
+{"g":"m", "sing":"Kanal", "pl":"Kanäle", "tags":"L"}
+{"g":"m", "sing":"Kuchen", "pl":"Kuchen", "tags":"OE"}
+{"g":"f", "sing":"Orange", "pl":"Orangen", "tags":"OE"}
+{"g":"m", "sing":"Saft", "pl":"Säfte", "tags":"O"}
+{"g":"m", "sing":"Salat", "pl":"Salate", "tags":"OE"}
+{"g":"f", "sing":"Tomate", "pl":"Tomaten", "tags":"OE"}
+{"g":"f", "sing":"Traube", "pl":"Trauben"}
+{"g":"f", "sing":"Wurst", "pl":"Würste", "tags":"OE"}
+{"g":"n", "sing":"Bier", "tags":"O"}
+{"g":"f", "sing":"Butter", "tags":"O"}
+{"g":"f", "sing":"Cola", "tags":"O"}
+{"g":"n", "sing":"Fleisch", "tags":"E"}
+{"g":"p", "sing":"Gemüse", "tags":"E"}
+{"g":"m", "sing":"Kaffee", "tags":"O"}
+{"g":"m", "sing":"Käse", "tags":"E"}
+{"g":"f", "sing":"Milch"}
+{"g":"n", "sing":"Wasser"}
+{"g":"n", "sing":"Obst"}
+{"g":"n", "sing":"Öl"}
+{"g":"m", "sing":"Reis", "tags":"E"}
+{"g":"f", "sing":"Sahne"}
+{"g":"n", "sing":"Salz"}
+{"g":"m", "sing":"Schinken", "tags":"OE"}
+{"g":"m", "sing":"Tee", "pl":"Tees", "tags":"O"}
+{"g":"m", "sing":"Wein", "pl":"Weines", "tags":"O"}
+{"g":"n", "sing":"Essen", "tags":"E"}
+{"g":"p", "sing":"Pommes", "tags":"E"}
+{"g":"f", "sing":"Suppe", "pl":"Suppen", "tags":"O"}
+{"g":"f", "sing":"Soße", "pl":"Soßen"}
+{"g":"m", "sing":"Euro", "tags":"O"}
+{"g":"m", "sing":"Markt", "pl":"Märket", "tags":"L"}
+{"g":"m", "sing":"Wald", "pl":"Wälder", "tags":"L"}
+{"g":"f", "sing":"Person", "pl":"Personen"}
+{"g":"n", "sing":"Restaurant", "pl":"Restaurants", "tags":"L"}
+{"g":"f", "sing":"Flasche", "pl":"Flaschen", "tags":"O"}
+{"g":"n", "sing":"Bad", "pl":"Bäder", "tags":"L"}
+{"g":"m", "sing":"Balkon", "pl":"Balkone", "tags":"L"}
+{"g":"m", "sing":"Flur", "pl":"Flure", "tags":"L"}
+{"g":"m", "sing":"Garten", "pl":"Gärten", "tags":"L"}
+{"g":"n", "sing":"Haus", "pl":"Häuser", "tags":"L"}
+{"g":"f", "sing":"Wohnung", "pl":"Wohnungen", "tags":"L"}
+{"g":"n", "sing":"Auto", "pl":"Autos", "tags":"LO"}
+{"g":"f", "sing":"Zoo", "pl":"Zoos", "tags":"L"}
+{"g":"f", "sing":"Supermarkt", "pl":"Supermärkte", "tags":"L"}
+{"g":"m", "sing":"Stock", "pl":"Stockwerke"}
+{"g":"n", "sing":"Zimmer", "pl":"Zimmers", "tags":"L"}
+{"g":"n", "sing":"Bett", "pl":"Betten", "tags":"O"}
+{"g":"m", "sing":"Fernseher", "pl":"Fernsehers", "tags":"O"}
+{"g":"f", "sing":"Natur"}
+{"g":"m", "sing":"Urlaub", "pl":"Urlaube"}
+{"g":"m", "sing":"Student", "pl":"Studenten", "tags":"P"}
+{"g":"n", "sing":"Sofa", "pl":"Sofas", "tags":"O"}
+{"g":"m", "sing":"Stuhl", "pl":"Stühle", "tags":"O"}
+{"g":"m", "sing":"Tisch", "pl":"Tische", "tags":"O"}
+{"g":"m", "sing":"Löffel", "pl":"Löffel", "tags":"O"}
+{"g":"m", "sing":"Beruf", "pl":"Berufe"}
+{"g":"f", "sing":"Uhr", "pl":"Uhren", "tags":"O"}
+{"g":"m", "sing":"Tag", "pl":"Tage"}
+{"g":"m", "sing":"Morgen"}
+{"g":"f", "sing":"Woche", "pl":"Wochen"}
+{"g":"m", "sing":"Hof", "pl":"Höfe", "tags":"L"}
+{"g":"n", "sing":"Kino", "pl":"Kinos"}
+{"g":"f", "sing":"Sonne"}
+{"g":"m", "sing":"Wind", "pl":"Winde"}
+{"g":"f", "sing":"Disko", "pl":"Diskos", "tags":"L"}
+{"g":"n", "sing":"Fahrrad", "pl":"Fährrader", "tags":"O"}
+{"g":"n", "sing":"Internet"}
+{"g":"m", "sing":"Sommer"}
+{"g":"m", "sing":"Frühling"}
+{"g":"m", "sing":"Herbst", "pl":"Herbste"}
+{"g":"m", "sing":"Winter"}
+{"g":"n", "sing":"Buch", "pl":"Bücher", "tags":"OW"}
+{"g":"m", "sing":"Brief", "pl":"Briefe", "tags":"OW"}
+{"g":"n", "sing":"Eis", "tags":"O"}
+{"g":"m", "sing":"Film", "pl":"Filme"}
+{"g":"n", "sing":"Geld"}
+{"g":"n", "sing":"Handy", "pl":"Handys", "tags":"O"}
+{"g":"m", "sing":"Schuh", "pl":"Schuhe", "tags":"O"}
+{"g":"f", "sing":"Tasche", "pl":"Taschen", "tags":"O"}
+{"g":"f", "sing":"Tür", "pl":"Türen"}
+{"g":"n", "sing":"Glas", "pl":"Gläser"}
+{"g":"m", "sing":"Kellner", "pl":"Kellner", "tags":"P"}
+{"g":"f", "sing":"Kellnerin", "pl":"Kelnerinnen", "tags":"P"}
+{"g":"m", "sing":"Arzt", "pl":"Ärzte", "tags":"P"}
+{"g":"m", "sing":"Polizist", "pl":"Polizisten", "tags":"P"}
+{"g":"f", "sing":"Krankenschwester", "pl":"Krankenschwestern", "tags":"P"}
+{"g":"m", "sing":"Feuerwehrmann", "pl":"Feuerwehrmänner", "tags":"P"}
+{"g":"f", "sing":"Feuerwehrfrau", "pl":"Feuerwehrfrauen", "tags":"P"}
+{"g":"m", "sing":"Buchhalter", "pl":"Buchhalter", "tags":"P"}
+{"g":"m", "sing":"Lehrer", "pl":"Lehrer", "tags":"P"}
+{"g":"f", "sing":"Lehrerin", "pl":"Lehrerin", "tags":"P"}
+{"g":"m", "sing":"Verkäufer", "tags":"P"}
+{"g":"f", "sing":"Verkäuferin", "tags":"P"}
+{"g":"m", "sing":"Fahrer", "tags":"P"}
+{"g":"m", "sing":"Handwerker", "tags":"P"}
+{"g":"f", "sing":"Handwerkerin", "tags":"P"}
+{"g":"m", "sing":"Wissenschaftler", "tags":"P"}
+{"g":"f", "sing":"Wissenschaftlerin", "tags":"P"}
+{"g":"m", "sing":"Computer", "tags":"O"}
+{"g":"f", "sing":"Zahnbürste", "tags":"O"}
+{"g":"m", "sing":"Spiegel", "tags":"O"}
+{"g":"f", "sing":"Badewanne", "tags":"O"}
+{"g":"f", "sing":"Pflanze", "pl":"Pflanzen", "tags":"O"}
+{"g":"n", "sing":"Kissen", "tags":"O"}
+{"g":"n", "sing":"Fenster", "tags":"O"}
+{"g":"f", "sing":"Kuh", "pl":"Kühe", "tags":"A"}
+{"g":"f", "sing":"Katze", "pl":"Katzen", "tags":"A"}
+{"g":"m", "sing":"Kater", "pl":"Kater", "tags":"A"}
+{"g":"m", "sing":"Hund", "pl":"Hunde", "tags":"A"}
+{"g":"f", "sing":"Maus", "pl":"Mäuse", "tags":"A"}
+{"g":"f", "sing":"Ratte", "pl":"Ratten", "tags":"A"}
+{"g":"n", "sing":"Tier", "pl":"Tiere"}
+{"g":"m", "sing":"Fisch", "pl":"Fische", "tags":"AE"}
+{"g":"m", "sing":"Gecko", "pl":"Geckos", "tags":"A"}
+{"g":"f", "sing":"Spinne", "pl":"Spinnen", "tags":"A"}
+{"g":"m", "sing":"Elefant", "pl":"Elefanten", "tags":"A"}
+{"g":"m", "sing":"Tiger", "tags":"A"}
+{"g":"m", "sing":"Löwe", "tags":"A"}
+{"g":"f", "sing":"Schlange", "pl":"Schlangen", "tags":"A"}
+{"g":"n", "sing":"Kamel", "pl":"Kamele", "tags":"A"}
+{"g":"m", "sing":"Vogel", "pl":"Vögel", "tags":"A"}
+{"g":"m", "sing":"Hase", "pl":"Hasen", "tags":"AE"}
+{"g":"f", "sing":"Ente", "pl":"Enten", "tags":"AE"}
+{"g":"n", "sing":"Huhn", "pl":"Hühner", "tags":"AE"}
+{"g":"m", "sing":"Bulle", "pl":"Bullen", "tags":"A"}
+{"g":"f", "sing":"Gitarre", "pl":"Gitarren", "tags":"O"}
+{"g":"f", "sing":"Jacke", "pl":"Jacken", "tags":"O"}
+{"g":"n", "sing":"Klavier", "pl":"Klaviere", "tags":"O"}
+{"g":"n", "sing":"Schlagzeug", "pl":"Schlagzeuge", "tags":"O"}
+{"g":"f", "sing":"Trommel", "pl":"Trommeln", "tags":"O"}
+{"g":"m", "sing":"Park", "pl":"Parks", "tags":"L"}
+{"g":"n", "sing":"Geschäft", "pl":"Geschäfte", "tags":"L"}
+{"g":"m", "sing":"Strand", "pl":"Strände", "tags":"L"}
+{"g":"m", "sing":"Spaß", "pl":"Späße"}
+{"g":"m", "sing":"Raum", "pl":"Räume"}
+{"g":"n", "sing":"Auge", "pl":"Augen", "tags":"O"}
+{"g":"n", "sing":"Ohr", "pl":"Ohren", "tags":"O"}
+{"g":"m", "sing":"Kopf", "pl":"Köpfe", "tags":"O"}
+{"g":"f", "sing":"Nase", "pl":"Nasen", "tags":"O"}
+{"g":"m", "sing":"Mund", "pl":"Münder", "tags":"O"}
+{"g":"m", "sing":"Arm", "pl":"Arme", "tags":"O"}
+{"g":"f", "sing":"Hand", "pl":"Hände", "tags":"O"}
+{"g":"n", "sing":"Bein", "pl":"Beine", "tags":"O"}
+{"g":"m", "sing":"Fuß", "pl":"Füße", "tags":"O"}
+{"g":"n", "sing":"Haar", "pl":"Haare", "tags":"O"}
+{"g":"n", "sing":"Herz", "pl":"Herzen", "tags":"O"}
+{"g":"f", "sing":"Lunge", "pl":"Lungen", "tags":"O"}
+{"g":"m", "sing":"Magen", "pl":"Mägen", "tags":"O"}
+{"g":"f", "sing":"Wand", "pl":"Wände", "tags":"OL"}
+{"g":"m", "sing":"Zahn", "pl":"Zähne", "tags":"O"}
+{"g":"m", "sing":"Schwan", "pl":"Schwäne", "tags":"AE"}
